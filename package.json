@@ -1,22 +1,22 @@
 {
-  "name": "node-jwt",
+  "name": "grocery",
   "version": "1.0.0",
-  "description": "Accompanying repository for scotch article on auth with JWTs and node",
+  "description": "Grocery API",
   "main": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emabishi/node-jwt.git"
+    "url": "git+https://github.com/manoj89-sys/grocery.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emabishi/node-jwt/issues"
+    "url": "https://github.com/manoj89-sys/grocery.git"
   },
-  "homepage": "https://github.com/emabishi/node-jwt#readme",
+  "homepage": "https://github.com/manoj89-sys/grocery.git",
   "dependencies": {
     "bcrypt": "^3.0.8",
     "body-parser": "^1.18.3",
