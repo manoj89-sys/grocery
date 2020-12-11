@@ -36,6 +36,8 @@ API Routes
    
    Header : Authorization : Bearer [ADMIN TOKEN HERE]
    
+   Enter product data in csv file. csv file located in csv folder
+   
    
 4) Url : http://localhost:3000/api/v1/products/review   -  POST
 
